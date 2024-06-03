@@ -1,0 +1,117 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/ccu002_01-depression-episode---secondary.py
+inputModule3:
+  class: File
+  path: python/ccu002_01-depression-recurr---secondary.py
+inputModule4:
+  class: File
+  path: python/ccu002_01-depression-first---secondary.py
+inputModule5:
+  class: File
+  path: python/major-ccu002_01-depression---secondary.py
+inputModule6:
+  class: File
+  path: python/ccu002_01-depression-remiss---secondary.py
+inputModule7:
+  class: File
+  path: python/ccu002_01-depression-cotard's---secondary.py
+inputModule8:
+  class: File
+  path: python/moderate-ccu002_01-depression---secondary.py
+inputModule9:
+  class: File
+  path: python/single-ccu002_01-depression---secondary.py
+inputModule10:
+  class: File
+  path: python/current-ccu002_01-depression---secondary.py
+inputModule11:
+  class: File
+  path: python/ccu002_01-depression---secondary.py
+inputModule12:
+  class: File
+  path: python/schizoaffective-ccu002_01-depression---secondary.py
+inputModule13:
+  class: File
+  path: python/ccu002_01-depression-psych---secondary.py
+inputModule14:
+  class: File
+  path: python/ccu002_01-depression-masked---secondary.py
+inputModule15:
+  class: File
+  path: python/mixed-ccu002_01-depression---secondary.py
+inputModule16:
+  class: File
+  path: python/ccu002_01-depression-agitated---secondary.py
+inputModule17:
+  class: File
+  path: python/ccu002_01-depression-reaction---secondary.py
+inputModule18:
+  class: File
+  path: python/depressive-ccu002_01-depression---secondary.py
+inputModule19:
+  class: File
+  path: python/ccu002_01-depression-prolonged---secondary.py
+inputModule20:
+  class: File
+  path: python/ccu002_01-depression-senile---secondary.py
+inputModule21:
+  class: File
+  path: python/endogenous-ccu002_01-depression---secondary.py
+inputModule22:
+  class: File
+  path: python/reactive-ccu002_01-depression---secondary.py
+inputModule23:
+  class: File
+  path: python/postschizophrenic-ccu002_01-depression---secondary.py
+inputModule24:
+  class: File
+  path: python/chronic-ccu002_01-depression---secondary.py
+inputModule25:
+  class: File
+  path: python/ccu002_01-depression-dysthymia---secondary.py
+inputModule26:
+  class: File
+  path: python/atypical-ccu002_01-depression---secondary.py
+inputModule27:
+  class: File
+  path: python/severe-ccu002_01-depression---secondary.py
+inputModule28:
+  class: File
+  path: python/ccu002_01-depression-review---secondary.py
+inputModule29:
+  class: File
+  path: python/ccu002_01-depression-service---secondary.py
+inputModule30:
+  class: File
+  path: python/ccu002_01-depression-anxiety---secondary.py
+inputModule31:
+  class: File
+  path: python/other-ccu002_01-depression---secondary.py
+inputModule32:
+  class: File
+  path: python/ccu002_01-depression-unspec---secondary.py
+inputModule33:
+  class: File
+  path: python/ccu002_01-depression-letter---secondary.py
+inputModule34:
+  class: File
+  path: python/ccu002_01-depression-dementium---secondary.py
+inputModule35:
+  class: File
+  path: python/ccu002_01-depression-invite---secondary.py
+inputModule36:
+  class: File
+  path: python/depression---secondary.py
+inputModule37:
+  class: File
+  path: python/ccu002_01-depression-administration---secondary.py
+inputModule38:
+  class: File
+  path: python/ccu002_01-depression-management---secondary.py
+inputModule39:
+  class: File
+  path: python/output-cases.py
